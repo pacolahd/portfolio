@@ -17177,7 +17177,7 @@ DO:function DO(a){this.a=a},
 iP:function iP(a,b,c){this.c=a
 this.d=b
 this.a=c},
-as5(a,b){var s=null,r=t.w,q=!(a.M(r).f.a.a<768)?A.aY(s,A.t9("images/my_logo.png",s,28),s,s,s,s,s,B.zg,s):A.a72(s,B.Ai,s,new A.a6d(b),s),p=A.aY(s,new A.c1("Ryan's Personal Site",s,B.U.h(0,600),s,s),s,s,s,s,B.zm,s,s),o=t.p
+as5(a,b){var s=null,r=t.w,q=!(a.M(r).f.a.a<768)?A.aY(s,A.t9("assets/images/my_logo.png",s,28),s,s,s,s,s,B.zg,s):A.a72(s,B.Ai,s,new A.a6d(b),s),p=A.aY(s,new A.c1("Ryan's Personal Site",s,B.U.h(0,600),s,s),s,s,s,s,B.zm,s,s),o=t.p
 r=!(a.M(r).f.a.a<768)?A.a([A.aY(s,new A.c1("Home",s,B.cm,s,s),s,s,s,s,s,B.c8,s),A.aY(s,new A.c1("About",s,B.cm,s,s),s,s,s,s,s,B.c8,s),A.aY(s,new A.c1("Skills",s,B.cm,s,s),s,s,s,s,s,B.c8,s),A.aY(s,new A.c1("Projects",s,B.cm,s,s),s,s,s,s,s,B.c8,s),A.aY(s,new A.c1("Contact",s,B.cm,s,s),s,s,s,s,s,B.c8,s),B.Ha],o):A.a([B.e_],o)
 return new A.qR(q,p,r,0,B.d2,new A.Ju(s,s,1/0,56),s)},
 a6d:function a6d(a){this.a=a},
@@ -56340,7 +56340,7 @@ E(a,b){var s=null
 return!(b.M(t.w).f.a.a<768)?A.zM(B.le,B.xW,10,B.be,B.ez,B.Fx):A.aY(s,B.le,s,s,s,s,B.l_,s,s)}}
 A.BZ.prototype={
 E(a,b){var s=null
-return A.aY(s,A.t9("images/Ryan.png",s,330),s,s,s,s,s,B.c9,s)}}
+return A.aY(s,A.t9("assets/images/Ryan.png",s,330),s,s,s,s,s,B.c9,s)}}
 A.DP.prototype={
 E(a,b){return B.A0}}
 A.lM.prototype={
