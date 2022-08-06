@@ -56503,7 +56503,7 @@ $1(a){return new A.o5(a,null)},
 $S:355}
 A.u9.prototype={
 D(a,b){var s=null
-return A.b1(s,A.tc("assets/images/my_logo.png",s,70),s,s,s,s,s,B.zi,s)}}
+return A.b1(s,A.tc("assets/images/logo.png",s,60),s,s,s,s,s,B.zi,s)}}
 A.o5.prototype={
 D(a,b){var s=null
 return A.b1(s,new A.cw(this.c,s,B.EL,s,s),s,s,s,s,s,B.zl,s)},
