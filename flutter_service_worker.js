@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "102f862cff75ac468479e06e8332a360",
+  "assets/AssetManifest.json": "953119f59291f9d5e59f84e9a96a4165",
 "assets/assets/images/classroom.jpg": "a59e70e05220837239a419596e7b251d",
 "assets/assets/images/cpe.jpg": "7227cbd04add06d5d8161df4a25aa249",
 "assets/assets/images/cud.jpg": "8495e77b0bf387746c0a78f3afcb70de",
@@ -13,6 +13,8 @@ const RESOURCES = {
 "assets/assets/images/news++.jpg": "6d53b0dc642b90d0d6f89d2dd261f538",
 "assets/assets/images/pe.jpg": "dcb4f1b2436174815b2a6dacc44bb1c3",
 "assets/assets/images/Ryan.png": "8e2c41850b25e2f2f96755d9e8ac7880",
+"assets/assets/images/Ryan2.jpg": "44ae70647f6722eaa3578a0586b8e893",
+"assets/assets/images/Ryan2.png": "12e5ff29dd7e90343623ad80f2ea85ad",
 "assets/assets/images/spider_escape.png": "4f7ef086cb05ba18e12c7d333a05ece0",
 "assets/assets/images/yyas.jpg": "b5e9b900f7e4dec7ad8e817ac18437e7",
 "assets/assets/images/yyas_logo.png": "2475e11186a71106af4f3943e11ab7a3",
@@ -33,9 +35,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e9be9b0d6f13b83e27119ca99f397752",
-"/": "e9be9b0d6f13b83e27119ca99f397752",
-"main.dart.js": "75b91176632f3ebe9ae2298d9285c47b",
+"index.html": "9df77837ba8119146b1d1afc80d788de",
+"/": "9df77837ba8119146b1d1afc80d788de",
+"main.dart.js": "258fa70acab0b92cd2449f8bef23f1a1",
 "manifest.json": "c54be612479655e0d2763a287b1c26cc",
 "version.json": "1e639790d4d891b98e68dcd6134dc1ea"
 };
